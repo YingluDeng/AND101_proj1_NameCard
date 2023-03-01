@@ -33,9 +33,9 @@ The following EXTRA features are implemented:
 
 ## Video Demo
 Here's a video / GIF that demos all of the app's implemented features:
-
-<a href="https://www.loom.com/share/7eb9f246ea9546c3b82109aa64a3fff7">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7eb9f246ea9546c3b82109aa64a3fff7-with-play.gif">
+  
+<a href="https://www.loom.com/share/f409eb41c3e349579369cfd058fae1e1">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f409eb41c3e349579369cfd058fae1e1-1677709621771-with-play.gif">
   </a>
 
 ## Notes

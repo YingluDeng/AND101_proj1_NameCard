@@ -9,8 +9,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="/private/var/root/StudioProjects/and101-project1-starter" />
+            <option value="/private/var/root/StudioProjects/and101-project1-starter/app" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,12 +1,11 @@
-# AND101 Project 1 - Hello, Squirrel!
+# AND101 Project 1 - Name Card
 
 Submitted by: **Cecilia**
 
 Time spent: **3** hours spent in total
 
 ## Summary
-
-**Hello_Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  
+A simple application for showing name card on Android Studio.
 
 If I had to describe this project in three (3) emojis, they would be: **😊 😭 🥳 **
 

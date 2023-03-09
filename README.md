@@ -7,7 +7,7 @@ Time spent: **3** hours spent in total
 ## Summary
 A simple application for showing name card on Android Studio.
 
-If I had to describe this project in three (3) emojis, they would be: **😊 😭 🥳 **
+If I had to describe this project in three (3) emojis, they would be: **😊 😭 🥳**
 
 <img src='https://github.com/YingluDeng/AND101_proj1_NameCard/blob/main/%20demo_pic.png' width="200" height="400" title='Demo Pic' width='' alt='Demo Pic' />
 
